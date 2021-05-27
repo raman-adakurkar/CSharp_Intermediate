@@ -1,0 +1,7 @@
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\practice1\bin\Debug\practice1.exe.config
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\practice1\bin\Debug\practice1.exe
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\practice1\bin\Debug\practice1.pdb
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\practice1\obj\Debug\practice1.csprojAssemblyReference.cache
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\practice1\obj\Debug\practice1.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\practice1\obj\Debug\practice1.exe
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\practice1\obj\Debug\practice1.pdb
