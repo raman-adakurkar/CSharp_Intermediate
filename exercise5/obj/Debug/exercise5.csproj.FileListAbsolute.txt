@@ -1,0 +1,7 @@
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise5\obj\Debug\exercise5.csprojAssemblyReference.cache
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise5\obj\Debug\exercise5.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise5\bin\Debug\exercise5.exe.config
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise5\bin\Debug\exercise5.exe
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise5\bin\Debug\exercise5.pdb
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise5\obj\Debug\exercise5.exe
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise5\obj\Debug\exercise5.pdb
