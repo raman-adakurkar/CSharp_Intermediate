@@ -1,0 +1,7 @@
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise6\bin\Debug\exercise6.exe.config
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise6\bin\Debug\exercise6.exe
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise6\bin\Debug\exercise6.pdb
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise6\obj\Debug\exercise6.csprojAssemblyReference.cache
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise6\obj\Debug\exercise6.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise6\obj\Debug\exercise6.exe
+C:\Users\raman\Desktop\C#\CSharp_Intermediate\exercise6\obj\Debug\exercise6.pdb
